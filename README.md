@@ -111,7 +111,7 @@ O gráfico de tempo de execução mostra a relação entre o número de threads 
 
 Esse gráfico permite visualizar se o aumento do número de threads contribui para reduzir o tempo de execução da aplicação.
 
-C:\Users\aluno\Documents\graficorafa/tempo.png
+![Gráfico Speedup](C:\Users\aluno\Documents\graficorafa/tempo.png)
 ---
 
 # 8. Gráfico de Speedup
