@@ -111,7 +111,7 @@ O gráfico de tempo de execução mostra a relação entre o número de threads 
 
 Esse gráfico permite visualizar se o aumento do número de threads contribui para reduzir o tempo de execução da aplicação.
 
-file:///C:/Users/aluno/Documents/imagemgrafico/tempo.png
+C:\Users\aluno\Documents\graficorafa/tempo.png
 ---
 
 # 8. Gráfico de Speedup
@@ -120,7 +120,7 @@ O gráfico de speedup mostra o ganho de desempenho obtido com o uso do paralelis
 
 Ele permite comparar o speedup obtido com o speedup ideal, que seria um crescimento linear conforme aumenta o número de threads.
 
-file:///C:/Users/aluno/Documents/imagemgrafico/speedup.png
+C:\Users\aluno\Documents\graficorafa/speedup.png
 ---
 
 # 9. Gráfico de Eficiência
@@ -129,7 +129,7 @@ O gráfico de eficiência apresenta o aproveitamento do paralelismo conforme aum
 
 Valores próximos de 1 indicam melhor aproveitamento dos recursos de processamento.
 
-file:///C:/Users/aluno/Documents/imagemgrafico/efici%C3%AAncia.png
+C:\Users\aluno\Documents\graficorafa/eficiência.png
 ---
 
 # 10. Análise dos Resultados
