@@ -120,7 +120,7 @@ O gráfico de speedup mostra o ganho de desempenho obtido com o uso do paralelis
 
 Ele permite comparar o speedup obtido com o speedup ideal, que seria um crescimento linear conforme aumenta o número de threads.
 
-C:\Users\aluno\Documents\graficorafa/speedup.png
+![Gráfico Speedup](C:\Users\aluno\Documents\graficorafa/speedup.png)
 ---
 
 # 9. Gráfico de Eficiência
@@ -129,7 +129,7 @@ O gráfico de eficiência apresenta o aproveitamento do paralelismo conforme aum
 
 Valores próximos de 1 indicam melhor aproveitamento dos recursos de processamento.
 
-C:\Users\aluno\Documents\graficorafa/eficiência.png
+![Gráfico Speedup](C:\Users\aluno\Documents\graficorafa/eficiência.png)
 ---
 
 # 10. Análise dos Resultados
