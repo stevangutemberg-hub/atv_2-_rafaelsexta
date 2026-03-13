@@ -73,11 +73,11 @@ Preencha a tabela com os **tempos médios de execução** obtidos.
 
 | Nº Threads/Processos | Tempo de Execução (s) |
 | -------------------- | --------------------- |
-| 1                    |           0.081            |
-| 2                    |           0.081           |
-| 4                    |           0.086          |
-| 8                    |           0.084           |
-| 12                   |             0.165          |
+| 1                    |           0.081s            |
+| 2                    |           0.081s           |
+| 4                    |           0.086s          |
+| 8                    |           0.084s           |
+| 12                   |             0.165s          |
 
 ---
 
