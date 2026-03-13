@@ -1,11 +1,11 @@
 # atv_2-_rafaelsexta
 # Relatório da NOME DA ATIVIDADE
 
-**Disciplina:** 
-**Aluno(s):**
-**Turma:**
-**Professor:**
-**Data:**
+**Disciplina:** PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA
+**Aluno(s):** STEVAN GUTEMBERG SILVA SERPA 
+**Turma:** ANALISE E DESENVOLVIMENTO DE SISTEMAS 
+**Professor:** RAFAEL
+**Data:** 13/03/2026
 
 ---
 
