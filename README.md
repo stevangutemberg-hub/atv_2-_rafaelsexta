@@ -29,7 +29,7 @@ Informar as características do hardware e software utilizados na execução dos
 
 | Item                        | Descrição |
 | --------------------------- | --------- |
-| Processador                 | Processador do computador utilizado          |
+| Processador                 |  intel i5/ ryzen 5         |
 | Número de núcleos           |   12        |
 | Memória RAM                 |   8 GB        |
 | Sistema Operacional         |      Windows     |
